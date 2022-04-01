@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^9.5.3"
+  },
+  "dependencies": {
+    "posh-git": "^0.0.9"
   }
 }
